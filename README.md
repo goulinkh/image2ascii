@@ -5,4 +5,4 @@ Usage:
 	npm i
 	npm test
 ```
-You can change the name of the file in input by changing it in `index.js``
+You can change the name of the file in input by changing it in `index.js`
