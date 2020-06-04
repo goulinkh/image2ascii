@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Image to characters converter ",
   "main": "index.js",
+  "bin" : "./index.js",
   "scripts": {
     "test": "node index.js"
   },
